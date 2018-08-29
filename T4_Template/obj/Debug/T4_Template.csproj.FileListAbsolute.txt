@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\模板\T4_Template\obj\Debug\T4_Template.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\T4_Template.exe.config
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\T4_Template.exe
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\T4_Template.pdb
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\source\repos\模板\T4_Template\obj\Debug\T4_Template.exe
+C:\Users\Administrator\source\repos\模板\T4_Template\obj\Debug\T4_Template.pdb
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\FluentData.dll
+C:\Users\Administrator\source\repos\模板\T4_Template\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
